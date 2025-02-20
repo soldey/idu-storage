@@ -1,1 +1,1 @@
-from storage import Storage, StorageInterface
+from .storage import Storage, StorageInterface
